@@ -1,7 +1,7 @@
 {
   "Quizz_Database": [
     {
-    "Question": "Myanmar Independent Day",
+    "Question": "Myanmar Independent Year",
     "Answer1": "1990",
     "Answer2": "1994",
     "Answer3": "1948",
@@ -14,6 +14,20 @@
     "Answer3": "July 1",
     "Answer4": "March 1",
     "TrueAnswer": "May 1"
+  },{
+    "Question": "Myanmar Indepent Day",
+    "Answer1": "January 4",
+    "Answer2": "June 1",
+    "Answer3": "July 1",
+    "Answer4": "March 1",
+    "TrueAnswer": "January 4"
+  },{
+    "Question": "Myanmar ThinGyan Day",
+    "Answer1": "January 4",
+    "Answer2": "June 1",
+    "Answer3": "April 13",
+    "Answer4": "March 1",
+    "TrueAnswer": "April 13"
   }
     
     ]
